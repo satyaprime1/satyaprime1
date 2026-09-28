@@ -1,157 +1,273 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F6FEB,70:A371F7,100:F778BA&height=190&section=header&text=Yadavalli%20Satya%20Harsha&fontSize=42&fontColor=FFFFFF&desc=B.Tech%20AI%20%26%20ML%20student%20building%20AI%20agents,%20web%20apps,%20and%20data-driven%20systems&descSize=16&descAlignY=65&animation=fadeIn" alt="Yadavalli Satya Harsha" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:111827,75:1D4ED8,100:7C3AED&height=210&section=header&text=Yadavalli%20Satya%20Harsha&fontSize=44&fontColor=FFFFFF&desc=AI%20%26%20ML%20Student%20%7C%20AI%20Systems%20%7C%20Full-Stack%20Development&descSize=17&descAlignY=67&animation=fadeIn" alt="Yadavalli Satya Harsha" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=840&lines=B.Tech+AI+%26+ML+Student;Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+AI+agents+and+full-stack+applications;Open+to+internships,+open+source,+and+collaboration" alt="Typing introduction" />
+<br/>
+
+<a href="https://github.com/satyaprime1">
+<img src="https://img.shields.io/badge/GitHub-satyaprime1-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:yadavallibhavanirao@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=satyaprime1&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-0D1117?style=flat-square&logo=graduation-cap&logoColor=58A6FF&labelColor=0D1117" alt="B.Tech AI and ML" />
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0D1117?style=flat-square&logo=openai&logoColor=A371F7&labelColor=0D1117" alt="AI and ML" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-0D1117?style=flat-square&logo=handshake&logoColor=3FB950&labelColor=0D1117" alt="Open to internships" />
-<img src="https://komarev.com/ghpvc/?username=satyaprime1&style=flat-square&color=F778BA&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br/><br/>
-
-<a href="https://github.com/satyaprime1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a> <a href="mailto:yadavallibhavanirao@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0883E" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+AI-powered+software+that+solves+real+problems;AI+Agents+%7C+Machine+Learning+%7C+Full-Stack;Java+%7C+Python+%7C+JavaScript+%7C+React;Turning+ideas+into+working+systems" alt="Typing introduction" />
 
 </div>
 
 <br/>
 
-## `> whoami`
+## `> about.me`
 
-I am a B.Tech AI and ML student focused on building practical software: AI agents, full-stack applications, machine learning projects, and data-driven systems. I enjoy taking ideas from prototype to working applications while continuously improving my coding skills, problem-solving ability, and software architecture.
+I’m **Yadavalli Satya Harsha**, a B.Tech AI & ML student interested in building software where **AI, automation, and full-stack engineering meet**.
+
+I like working on projects that go beyond simple demos — systems with real workflows, APIs, databases, machine learning models, and intelligent interfaces.
+
+Currently focused on:
+
+* AI agents and agentic workflows
+* Machine learning and intelligent systems
+* Full-stack application development
+* Backend engineering and APIs
+* Java, DSA, and core software engineering
 
 ```yaml
-name: Yadavalli Satya Harsha
-role: B.Tech AI and ML Student | Developer
-github: satyaprime1
+developer:
+  name: Yadavalli Satya Harsha
+  role: B.Tech AI & ML Student
+  github: satyaprime1
 
-focus:
-  - AI agents and intelligent systems
-  - Full-stack web applications
-  - Machine learning and data workflows
-  - Java and DSA problem solving
+interests:
+  - AI Agents
+  - Machine Learning
+  - Full-Stack Development
+  - Backend Engineering
+  - Intelligent Systems
 
-stack:
-  languages: [Java, Python, JavaScript, TypeScript]
-  frontend: [HTML, CSS, Bootstrap, React]
-  backend: [Node.js, Express, Flask]
-  databases: [MongoDB, MySQL, SQLite]
-  tools: [Git, GitHub, VS Code, Jupyter]
+currently:
+  learning: [Advanced Java, DSA, AI Agents, ML, System Design]
+  building: [AI-powered applications, automation, production-style projects]
 
 open_to:
   - Internships
-  - Open source contributions
-  - Project collaborations
+  - Open Source
   - Hackathons
+  - Technical Collaborations
 ```
 
-<br/>
+---
 
-## `> build_focus`
+## `> featured_projects`
 
-| Area                    | What I am building toward                                                          |
-| :---------------------- | :--------------------------------------------------------------------------------- |
-| 🔵 **AI & ML**          | Machine learning, AI applications, intelligent systems, and practical AI projects. |
-| 🟣 **AI Agents**        | Tool-using agents, agent workflows, automation, and LLM-powered applications.      |
-| 🟢 **Full-Stack Apps**  | Web applications using modern frontend technologies, backend APIs, and databases.  |
-| 🟠 **Core Engineering** | Java fundamentals, OOP, DSA, clean code, and problem solving.                      |
+### 01 — VEYRiX · Disaster Intelligence Platform
 
-<br/>
+**AI-powered disaster risk intelligence and response platform**
 
-## `> stack --active`
+A disaster-management system combining **machine learning, live weather data, satellite intelligence, terrain information, risk analysis, safe routing, and an AI disaster copilot** into a single platform.
+
+**What it explores**
+
+* Flood & landslide risk prediction
+* Machine-learning based disaster assessment
+* Satellite and geospatial intelligence
+* Live weather integration
+* Risk fusion and visualization
+* Safe-route planning
+* AI-powered disaster assistance
+
+**Stack**
+
+`Python` `Flask` `Machine Learning` `React` `Open-Meteo` `Satellite Data` `OpenStreetMap` `OSRM`
+
+🔗 **[View Project →](https://github.com/satyaprime1/Disaster-management)**
+
+---
+
+### 02 — Hindsight Web Agent
+
+**An intelligent web agent designed to understand and interact with the web**
+
+A project focused on exploring **agentic web interaction**, where an AI system can reason about tasks, interact with web interfaces, and execute multi-step workflows instead of simply generating text.
+
+**Core ideas**
+
+* Agentic task execution
+* Web interaction
+* LLM-powered reasoning
+* Multi-step workflows
+* Automation through intelligent agents
+
+**Stack**
+
+`Python` `AI Agents` `LLMs` `Web Automation`
+
+🔗 **[View Project →](https://github.com/satyaprime1/hindsight-web-agent)**
+
+---
+
+### 03 — Campus Mind AI
+
+**AI-powered intelligent campus assistant**
+
+An AI system designed around campus workflows, bringing together conversational AI, intelligent assistance, and application-level functionality.
+
+**Stack**
+
+`Python` `FastAPI` `React` `LangGraph` `LLMs`
+
+🔗 **[View Project →](https://github.com/satyaprime1/Campus-Mind-Ai)**
+
+---
+
+### 04 — Student Management Portal
+
+A full-stack student management platform with authentication, role-based access, CRUD operations, and database-backed workflows.
+
+**Stack**
+
+`Python` `Flask` `Flask-SQLAlchemy` `SQLite` `Flask-Login` `Bootstrap`
+
+---
+
+### 05 — Weather Report Extension
+
+A lightweight Chrome extension that provides location-based weather information using live weather data.
+
+**Stack**
+
+`JavaScript` `HTML` `CSS` `Chrome Extensions API` `Open-Meteo`
+
+🔗 **[View Project →](https://github.com/satyaprime1/weather-report-chrome-extension)**
+
+---
+
+## `> technical_stack`
 
 <div align="center">
 
-**Languages and Frontend**
+### Languages
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,bootstrap&theme=dark" alt="Languages and frontend tools" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
 
 <br/><br/>
 
-**Backend, Data, and Tools**
+### AI / ML / Data
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,git,github,vscode&theme=dark" alt="Backend, data, and tools" />
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+
+<br/><br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,sqlite&theme=dark" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-## `> projects --selected`
+## `> engineering_focus`
 
-### 🌦️ Weather Report Chrome Extension
+| Domain               | Current Focus                                                  |
+| -------------------- | -------------------------------------------------------------- |
+| **AI Engineering**   | AI agents, LLM applications, RAG, intelligent workflows        |
+| **Machine Learning** | Prediction systems, model experimentation, real-world datasets |
+| **Full-Stack**       | React interfaces, APIs, authentication, databases              |
+| **Backend**          | Flask, FastAPI, Node.js, API architecture                      |
+| **Core CS**          | Java, OOP, DSA, problem solving                                |
+| **Automation**       | Agent workflows, web automation, developer tooling             |
 
-A Chrome extension that provides weather information using geolocation and the Open-Meteo API.
-
-**Tech:** JavaScript • HTML • CSS • Chrome Extensions API • Open-Meteo
-
-🔗 [View Repository](https://github.com/satyaprime1/weather-report-chrome-extension)
-
-### 🎓 Student Management Portal
-
-A full-stack student management application with authentication, role-based access, CRUD operations, and database integration.
-
-**Tech:** Python • Flask • Flask-SQLAlchemy • SQLite • Flask-Login • Bootstrap
-
-### 🛒 E-Commerce Backend
-
-A backend application developed during my internship, featuring authentication, product APIs, database integration, and secure password handling.
-
-**Tech:** Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt
-
-<br/>
+---
 
 ## `> currently_learning`
 
-* 🤖 AI Agents and Agentic AI
-* 🧠 Machine Learning and Deep Learning
-* ☕ Advanced Java and DSA
-* 🌐 Full-Stack Development
-* 🔗 APIs, backend architecture, and databases
-* 🛠️ Building production-ready projects
+```text
+AI Agents
+    ↓
+LLMs + Tool Calling
+    ↓
+RAG + Agent Workflows
+    ↓
+Production AI Applications
+```
 
-<br/>
+Alongside AI, I'm strengthening the fundamentals that support it:
 
-## `> github --stats`
+`Java` · `DSA` · `OOP` · `SQL` · `APIs` · `Backend Architecture` · `System Design`
+
+---
+
+## `> github_activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=satyaprime1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=satyaprime1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyaprime1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-<br/>
-
-## `> contribution_graph`
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaprime1&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
-<br/>
+---
+
+## `> what_i_build`
+
+<div align="center">
+
+```text
+IDEA
+ │
+ ▼
+PROTOTYPE
+ │
+ ▼
+ENGINEERING
+ │
+ ├── AI / ML
+ ├── Backend
+ ├── Data
+ └── Frontend
+ │
+ ▼
+WORKING SYSTEM
+ │
+ ▼
+ITERATE → IMPROVE → SHIP
+```
+
+</div>
+
+---
 
 ## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/satyaprime1">
-<img src="https://img.shields.io/badge/GitHub-satyaprime1-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:yadavallibhavanirao@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -160,8 +276,6 @@ A backend application developed during my internship, featuring authentication, 
 
 <div align="center">
 
-### `Building → Learning → Shipping → Improving`
-
-⭐ Thanks for visiting my profile!
+### `Build systems. Solve problems. Keep shipping.`
 
 </div>
